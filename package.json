@@ -6,17 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "Serverless",
-    "Node.js",
-    "AWS",
-    "Twilio",
-    "SMS",
-    "Text",
-    "Single",
-    "Page",
-    "App"
-  ],
   "dependencies": {
     "request": "^2.88.0",
     "serverless-finch": "^1.4.0",
